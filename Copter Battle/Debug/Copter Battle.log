@@ -1,0 +1,17 @@
+﻿Build started 15-Jun-18 10:54:23 PM.
+     1>Project "E:\Copter Battle\Copter Battle\Copter Battle.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Copter Battle.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Copter Battle.vcxproj -> E:\Copter Battle\Debug\Copter Battle.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Copter Battle.unsuccessfulbuild".
+         Touching "Debug\Copter Battle.lastbuildstate".
+     1>Done Building Project "E:\Copter Battle\Copter Battle\Copter Battle.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05

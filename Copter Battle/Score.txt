@@ -1,0 +1,33 @@
+Ayon    2000
+Ratul 1500
+Jahid   1410
+Ayon   1220
+Ratul   180
+Ayon   840
+Ratul   980
+Ratul   1020
+Ratul   1060
+Ratul   760
+Ratul   780
+Ratul   980
+Ratul   1060
+Ayon   740
+Ratul   400
+Ratul   1530
+
+Jahid   110
+Jahid   40
+Ratul   720
+shahin   20
+shahin   200
+   40
+   200
+   350
+jahid   20
+   260
+jahid   80
+jahid   20
+jahid   0
+jahid   110
+jahid   250
+jahid   140
